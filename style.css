@@ -1,0 +1,15 @@
+html {
+    background-color: gray;
+}
+
+canvas {
+    background-color: black;
+    border: 1px white solid;
+
+    position: absolute;
+    margin: auto;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
